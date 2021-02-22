@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1050687035223",
+    "firebase_url": "https://travel-perfect-3ff0d.firebaseio.com",
+    "project_id": "travel-perfect-3ff0d",
+    "storage_bucket": "travel-perfect-3ff0d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1050687035223:android:70363a238e5bce6438d012",
+        "android_client_info": {
+          "package_name": "com.example.travelperfect"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1050687035223-oijf30f565q4rtmop14l0d810b1qsnkv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSlk1-xU6fBOBTn6vfiigWQJQD3SWXB-E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1050687035223-oijf30f565q4rtmop14l0d810b1qsnkv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
